@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveMeFace", "GiveMeFace\GiveMeFace.csproj", "{4B9260AC-237A-4468-AF6F-39844EBCFD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9260AC-237A-4468-AF6F-39844EBCFD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9260AC-237A-4468-AF6F-39844EBCFD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9260AC-237A-4468-AF6F-39844EBCFD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9260AC-237A-4468-AF6F-39844EBCFD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D905C2F7-25A2-4858-9CF2-F3D5912CC70B}
+	EndGlobalSection
+EndGlobal

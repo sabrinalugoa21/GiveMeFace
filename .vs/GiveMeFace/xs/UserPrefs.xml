@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{4B9260AC-237A-4468-AF6F-39844EBCFD0D}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GiveMeFace PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GiveMeFace/Views/Products/Eyes.cshtml">
+    <Files>
+      <File FileName="GiveMeFace/Views/Products/Brows.cshtml" />
+      <File FileName="GiveMeFace/Views/Products/Lips.cshtml" />
+      <File FileName="GiveMeFace/Controllers/ProductsController.cs" />
+      <File FileName="GiveMeFace/Controllers/HomeController.cs" />
+      <File FileName="GiveMeFace/Views/Shared/_Layout.cshtml" />
+      <File FileName="GiveMeFace/Views/Home/Index.cshtml" />
+      <File FileName="GiveMeFace/Views/Products/Face.cshtml" />
+      <File FileName="GiveMeFace/wwwroot/css/site.css" />
+      <File FileName="GiveMeFace/wwwroot/js/site.js" />
+      <File FileName="GiveMeFace/Views/Products/Eyes.cshtml" Line="20" Column="129" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GiveMeFace" expanded="True">
+            <Node name="GiveMeFace" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Images" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True">
+                  <Node name="Eyes.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
